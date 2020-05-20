@@ -1,0 +1,60 @@
+ 
+.card-div-style{
+    border-right: 1px solid black;
+   
+}
+
+.card-align{
+    display: flex;
+   justify-content: center;    
+}
+ 
+ .img-design{
+    max-width: 100%; 
+    max-height: 100%;
+    border-radius: 5px;
+ }
+  
+ .text-flow-control{
+      overflow: hidden;
+text-overflow: ellipsis;
+-webkit-line-clamp: 3;
+display: -webkit-box;
+-webkit-box-orient: vertical;
+ }
+ .heading-control{  
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+     }
+
+ .learn-card-style{
+ 
+ 
+  margin-top: 20px;  
+        width: 25rem;
+     }
+
+     .media{
+         border: 1px solid black;
+         border-radius: 3px;
+          padding: 3px;
+         display:flex ;
+     }
+     .media-left{
+         height: 90px;
+         float: 1;
+     }
+ .media-body{
+     flex: 2;
+     box-sizing:border-box ;
+ }
+
+ #fsize{
+     font-size: smaller;
+ }
+
+ 
+  
+  
+ 
